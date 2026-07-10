@@ -1,66 +1,68 @@
 class Solution {
 public:
     vector<int> pathExistenceQueries(int n, vector<int>& nums, int maxDiff, vector<vector<int>>& queries) {
-        vector<pair<int, int>> pairs;
-        pairs.reserve(n);
+        // Step 1: Pair each value with its original index and sort by value
+        vector<pair<int, int>> pairs(n);
         for (int i = 0; i < n; i++) {
-            pairs.emplace_back(nums[i], i);
+            pairs[i] = {nums[i], i};
         }
         sort(pairs.begin(), pairs.end());
 
-        int m = 20; 
-        vector<vector<int>> f(n, vector<int>(m));
-        int r = n - 1;
+        // Step 2: Map original index to its position in the sorted array
+        vector<int> pos(n);
+        for (int i = 0; i < n; i++) {
+            pos[pairs[i].second] = i;
+        }
 
-        for (int l = n - 1; l >= 0; l--) {
-            while (pairs[r].first - pairs[l].first > maxDiff) {
-                r--;
+        // Step 3: Compute the farthest index reachable within maxDiff in 1 step
+        int m = 18; // 2^17 > 10^5, sufficient for constraints
+        vector<vector<int>> f(n, vector<int>(m));
+        
+        for (int i = 0, j = 0; i < n; i++) {
+            while (j < n && pairs[j].first - pairs[i].first <= maxDiff) {
+                j++;
             }
-            int i = pairs[l].second; 
-            int j = pairs[r].second; 
-            
-            f[i][0] = j;
-            for (int k = 1; k < m; k++) {
+            f[i][0] = j - 1; // Farthest element reachable in 2^0 = 1 jump
+        }
+
+        // Step 4: Construct the binary lifting table
+        for (int k = 1; k < m; k++) {
+            for (int i = 0; i < n; i++) {
                 f[i][k] = f[f[i][k - 1]][k - 1];
             }
         }
 
-        vector<int> ans;
-        ans.reserve(queries.size());
+        // Step 5: Process each query using binary lifting
+        int q = queries.size();
+        vector<int> ans(q);
+        for (int t = 0; t < q; t++) {
+            int i = pos[queries[t][0]];
+            int j = pos[queries[t][1]];
 
-        for (auto& q : queries) {
-            int i = q[0], j = q[1];
-
-           
-            if (nums[i] > nums[j]) {
+            // Ensure i is always to the left of j in sorted order
+            if (i > j) {
                 swap(i, j);
             }
 
             if (i == j) {
-                ans.push_back(0);
+                ans[t] = 0;
                 continue;
             }
 
-            
-            if (nums[i] == nums[j]) {
-                ans.push_back(1);
-                continue;
-            }
-
-            int d = 0;
-            
+            int steps = 0;
+            // Greedily lift 'i' as far right as possible without passing or hitting 'j'
             for (int k = m - 1; k >= 0; k--) {
-                if (nums[f[i][k]] < nums[j]) {
-                    d |= (1 << k);
+                if (f[i][k] < j) {
+                    steps |= (1 << k);
                     i = f[i][k];
                 }
             }
 
-           
-            if (nums[f[i][0]] < nums[j]) {
-                ans.push_back(-1); 
+            // Check if one final hop can cover or cross the distance to 'j'
+            if (f[i][0] >= j) {
+                ans[t] = steps + 1;
             } else {
-                ans.push_back(d + 1);
+                ans[t] = -1; // Elements belong to disconnected components
             }
         }
 
