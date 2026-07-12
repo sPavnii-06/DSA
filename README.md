@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sPavnii-06/DSA/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
+| [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sPavnii-06/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sPavnii-06/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [1044-longest-duplicate-substring](https://github.com/sPavnii-06/DSA/tree/master/1044-longest-duplicate-substring) |
 ## Rolling Hash
 |  |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
