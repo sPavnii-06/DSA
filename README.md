@@ -127,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sPavnii-06/DSA/tree/master/1260-shift-2d-grid) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/sPavnii-06/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
