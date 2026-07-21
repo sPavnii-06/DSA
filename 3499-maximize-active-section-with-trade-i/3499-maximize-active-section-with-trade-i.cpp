@@ -7,12 +7,11 @@ public:
             if (c == '1') original_ones++;
         }
         
-        // Form the augmented string
+        
         std::string t = "1" + s + "1";
         std::vector<int> zero_block_lengths;
         int current_zeros = 0;
         
-        // Extract the lengths of all '0' blocks
         for (char c : t) {
             if (c == '0') {
                 current_zeros++;
@@ -27,7 +26,7 @@ public:
             zero_block_lengths.push_back(current_zeros);
         }
         
-        // Find the maximum gain from two adjacent '0' blocks
+        
         int max_gain = 0;
         if (zero_block_lengths.size() >= 2) {
             for (size_t i = 0; i < zero_block_lengths.size() - 1; ++i) {
