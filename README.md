@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sPavnii-06/DSA/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/sPavnii-06/DSA/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sPavnii-06/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/sPavnii-06/DSA/tree/master/0443-string-compression) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sPavnii-06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sPavnii-06/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sPavnii-06/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sPavnii-06/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/sPavnii-06/DSA/tree/master/0443-string-compression) |
 | [1044-longest-duplicate-substring](https://github.com/sPavnii-06/DSA/tree/master/1044-longest-duplicate-substring) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sPavnii-06/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sPavnii-06/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
