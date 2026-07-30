@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sPavnii-06/DSA/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sPavnii-06/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0392-is-subsequence) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sPavnii-06/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sPavnii-06/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/sPavnii-06/DSA/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sPavnii-06/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sPavnii-06/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sPavnii-06/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
