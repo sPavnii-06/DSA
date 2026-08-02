@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
 | [0283-move-zeroes](https://github.com/sPavnii-06/DSA/tree/master/0283-move-zeroes) |
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
 | [0605-can-place-flowers](https://github.com/sPavnii-06/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sPavnii-06/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sPavnii-06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sPavnii-06/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sPavnii-06/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sPavnii-06/DSA/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sPavnii-06/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -179,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sPavnii-06/DSA/tree/master/0070-climbing-stairs) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
