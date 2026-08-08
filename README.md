@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/sPavnii-06/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/sPavnii-06/DSA/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/sPavnii-06/DSA/tree/master/1768-merge-strings-alternately) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sPavnii-06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sPavnii-06/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-longest-duplicate-substring](https://github.com/sPavnii-06/DSA/tree/master/1044-longest-duplicate-substring) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sPavnii-06/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sPavnii-06/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/sPavnii-06/DSA/tree/master/1768-merge-strings-alternately) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sPavnii-06/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sPavnii-06/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
