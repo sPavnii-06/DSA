@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/sPavnii-06/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/sPavnii-06/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sPavnii-06/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sPavnii-06/DSA/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sPavnii-06/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sPavnii-06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/sPavnii-06/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/sPavnii-06/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Heap (Priority Queue)
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sPavnii-06/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sPavnii-06/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sPavnii-06/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -211,4 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
