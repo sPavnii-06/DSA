@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sPavnii-06/DSA/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/sPavnii-06/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sPavnii-06/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/sPavnii-06/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sPavnii-06/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sPavnii-06/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sPavnii-06/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sPavnii-06/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/sPavnii-06/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sPavnii-06/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sPavnii-06/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/sPavnii-06/DSA/tree/master/3731-find-missing-elements) |
@@ -193,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sPavnii-06/DSA/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/sPavnii-06/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sPavnii-06/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/sPavnii-06/DSA/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/sPavnii-06/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
 |  |
 | ------- |
