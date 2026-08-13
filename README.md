@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sPavnii-06/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sPavnii-06/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/sPavnii-06/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sPavnii-06/DSA/tree/master/0443-string-compression) |
 | [1044-longest-duplicate-substring](https://github.com/sPavnii-06/DSA/tree/master/1044-longest-duplicate-substring) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sPavnii-06/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/sPavnii-06/DSA/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -224,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/sPavnii-06/DSA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
