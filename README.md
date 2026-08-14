@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sPavnii-06/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sPavnii-06/DSA/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/sPavnii-06/DSA/tree/master/1512-number-of-good-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/sPavnii-06/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sPavnii-06/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/sPavnii-06/DSA/tree/master/2352-equal-row-and-column-pairs) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1512-number-of-good-pairs](https://github.com/sPavnii-06/DSA/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sPavnii-06/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sPavnii-06/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/sPavnii-06/DSA/tree/master/2352-equal-row-and-column-pairs) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sPavnii-06/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
+| [1512-number-of-good-pairs](https://github.com/sPavnii-06/DSA/tree/master/1512-number-of-good-pairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sPavnii-06/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/sPavnii-06/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -243,5 +246,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/sPavnii-06/DSA/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sPavnii-06/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
