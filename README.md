@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/sPavnii-06/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sPavnii-06/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sPavnii-06/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/sPavnii-06/DSA/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sPavnii-06/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/sPavnii-06/DSA/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/sPavnii-06/DSA/tree/master/0088-merge-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sPavnii-06/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
+| [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/sPavnii-06/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/sPavnii-06/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/sPavnii-06/DSA/tree/master/1044-longest-duplicate-substring) |
@@ -246,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/sPavnii-06/DSA/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sPavnii-06/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
