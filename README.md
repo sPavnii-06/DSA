@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sPavnii-06/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/sPavnii-06/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sPavnii-06/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sPavnii-06/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sPavnii-06/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
@@ -260,10 +261,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/sPavnii-06/DSA/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/sPavnii-06/DSA/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/sPavnii-06/DSA/tree/master/0739-daily-temperatures) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/sPavnii-06/DSA/tree/master/1512-number-of-good-pairs) |
 | [1657-determine-if-two-strings-are-close](https://github.com/sPavnii-06/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/sPavnii-06/DSA/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
