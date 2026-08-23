@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sPavnii-06/DSA/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/sPavnii-06/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sPavnii-06/DSA/tree/master/0283-move-zeroes) |
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sPavnii-06/DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0217-contains-duplicate](https://github.com/sPavnii-06/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/sPavnii-06/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/sPavnii-06/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [0875-koko-eating-bananas](https://github.com/sPavnii-06/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/sPavnii-06/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/sPavnii-06/DSA/tree/master/1044-longest-duplicate-substring) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/sPavnii-06/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sPavnii-06/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sPavnii-06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -132,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sPavnii-06/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sPavnii-06/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sPavnii-06/DSA/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/sPavnii-06/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -209,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sPavnii-06/DSA/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/sPavnii-06/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/sPavnii-06/DSA/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sPavnii-06/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
