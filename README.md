@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sPavnii-06/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sPavnii-06/DSA/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sPavnii-06/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sPavnii-06/DSA/tree/master/0283-move-zeroes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sPavnii-06/DSA/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/sPavnii-06/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sPavnii-06/DSA/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sPavnii-06/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sPavnii-06/DSA/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0594-longest-harmonious-subsequence) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0480-sliding-window-median](https://github.com/sPavnii-06/DSA/tree/master/0480-sliding-window-median) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/sPavnii-06/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -329,4 +332,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/sPavnii-06/DSA/tree/master/0595-big-countries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/sPavnii-06/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
