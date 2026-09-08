@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/sPavnii-06/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sPavnii-06/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/sPavnii-06/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/sPavnii-06/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/sPavnii-06/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sPavnii-06/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sPavnii-06/DSA/tree/master/0875-koko-eating-bananas) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/sPavnii-06/DSA/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/sPavnii-06/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/sPavnii-06/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/sPavnii-06/DSA/tree/master/1732-find-the-highest-altitude) |
