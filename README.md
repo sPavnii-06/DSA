@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sPavnii-06/DSA/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/sPavnii-06/DSA/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/sPavnii-06/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/sPavnii-06/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sPavnii-06/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/sPavnii-06/DSA/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/sPavnii-06/DSA/tree/master/0443-string-compression) |
+| [0940-distinct-subsequences-ii](https://github.com/sPavnii-06/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1044-longest-duplicate-substring](https://github.com/sPavnii-06/DSA/tree/master/1044-longest-duplicate-substring) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sPavnii-06/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sPavnii-06/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
