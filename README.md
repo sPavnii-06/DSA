@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sPavnii-06/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sPavnii-06/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sPavnii-06/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/sPavnii-06/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/sPavnii-06/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sPavnii-06/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sPavnii-06/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sPavnii-06/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sPavnii-06/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sPavnii-06/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3255-find-the-power-of-k-size-subarrays-ii](https://github.com/sPavnii-06/DSA/tree/master/3255-find-the-power-of-k-size-subarrays-ii) |
 ## Rolling Hash
 |  |
 | ------- |
