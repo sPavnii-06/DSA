@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/sPavnii-06/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2685-count-the-number-of-complete-components](https://github.com/sPavnii-06/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
@@ -377,9 +378,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/sPavnii-06/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sPavnii-06/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/sPavnii-06/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sPavnii-06/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
