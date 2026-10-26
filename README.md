@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/sPavnii-06/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/sPavnii-06/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/sPavnii-06/DSA/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/sPavnii-06/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/sPavnii-06/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/sPavnii-06/DSA/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/sPavnii-06/DSA/tree/master/1260-shift-2d-grid) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sPavnii-06/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sPavnii-06/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/sPavnii-06/DSA/tree/master/0994-rotting-oranges) |
 | [2685-count-the-number-of-complete-components](https://github.com/sPavnii-06/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Prefix Sum
 |  |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/sPavnii-06/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/sPavnii-06/DSA/tree/master/1260-shift-2d-grid) |
 | [2352-equal-row-and-column-pairs](https://github.com/sPavnii-06/DSA/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
